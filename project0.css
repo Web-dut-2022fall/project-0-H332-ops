@@ -1,0 +1,43 @@
+box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000000;
+    position: relative;
+}
+
+.box_mid {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.box_mid2 {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.box_right{
+    float: right;
+}
+.myinput {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+.button {
+    background-color: dodgerblue;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
